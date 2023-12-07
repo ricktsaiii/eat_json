@@ -1,0 +1,21 @@
+[
+  {
+    "img":"./img/Buffet.jpeg",
+    "title":"饗食天堂Buffet",
+    "description":"饗食天堂，美食的天堂。這裡有豐盛多元的嚴選食材，主廚現點現做上百道多國料理，開啟感官與味蕾的精采體驗，盡享豐盛百匯！讓我們一起來品嚐這些美食，享受自由自在的用餐時光吧！",
+    "locatction":{
+      "city": "台北市",
+      "dist": "信義區",
+      "add":"壽路12號ATT 4 FUN百貨6樓"
+    },
+    "time":{
+      "year":"2023",
+      "month":"12",
+      "day":"25"
+    },
+    "peopleMaxNum":"5",
+    "budget":"1500",
+    "Tag":["台北市","Buffet" ]
+    
+  }
+]
